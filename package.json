@@ -1,0 +1,28 @@
+{
+  "name": "@tanya-amber-l/card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "@tanya-amber-l/card": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanya-Amber-L/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanya-Amber-L/npx-card/issues"
+  },
+  "homepage": "https://github.com/Tanya-Amber-L/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "cfonts": "^2.9.1",
+    "chalk": "^4.1.0",
+    "gradient-string": "^1.2.0"
+  }
+}
